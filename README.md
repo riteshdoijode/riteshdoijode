@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-\`\`\`python
+```python
 ritesh = {
     "role": "AI + Robotics Engineer",
     "focus": "Bridging Machine Learning with Real-World Robotics Systems",
@@ -28,7 +28,6 @@ ritesh = {
     ],
     "current_work": "Applying ML + CV models to real-time robotic systems"
 }
-\`\`\`
 
 I work at the **intersection of AI and Robotics**, building systems where **machine learning directly drives physical behavior** — from perception to control.
 
