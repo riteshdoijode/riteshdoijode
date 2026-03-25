@@ -27,7 +27,8 @@ ritesh = {
         "Sensor Fusion"
     ],
     "current_work": "Applying ML + CV models to real-time robotic systems"
-}```
+}
+```
 
 I work at the **intersection of AI and Robotics**, building systems where **machine learning directly drives physical behavior** — from perception to control.
 
@@ -164,7 +165,3 @@ I'm always interested in:
 <div align="center">
   <i>"Bringing intelligence out of models and into machines."</i>
 </div>
-
-EOF
-
-echo "README.md has been generated successfully 🚀"
