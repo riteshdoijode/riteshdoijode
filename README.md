@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-```python
+python
 ritesh = {
     "role": "AI + Robotics Engineer",
     "focus": "Bridging Machine Learning with Real-World Robotics Systems",
