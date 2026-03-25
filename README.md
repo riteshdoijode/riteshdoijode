@@ -147,17 +147,6 @@ Machine learning framework designed to forecast weather conditions and predict n
 - **Publication:** *Design and Development of Sign-Language Glove a prototype of an AI integrated Sign-Language Glove* - IEEE International Conference on Advanced Intelligent Mechatronics (2023)
 - **Award:** Recipient of the Merit-based Scholarship at New York University.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/riteshdoijode">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riteshdoijode&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_border=true" alt="Ritesh's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/riteshdoijode">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riteshdoijode&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages" height="170" />
-  </a>
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
