@@ -1,165 +1,98 @@
-# <div align="center">👋 Hi, I'm Ritesh Doijode!</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Robotics+%26+AI+Engineer;Computer+Vision+Researcher;Mechatronics+Specialist;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
+<h1 align="center">Hi, I'm Ritesh Doijode 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riteshdoijode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:riteshdoijode@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/riteshdoijode"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  Robotics and Physical AI Engineer specializing in autonomous systems, robot perception, sensor fusion, and embedded intelligence.
 </p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://sites.google.com/view/riteshdoijode/home"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/riteshdoijode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:riteshdoijode@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/riteshdoijode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-```javascript
-const ritesh = {
-  location: "New York, USA",
-  education: {
-    masters: "MS in Mechatronics and Robotics - New York University",
-    bachelors: "B.E. in Mechatronics Engineering (Minor: AI) - AIT"
-  },
-  workExperience: [
-    "Computer Vision Research Engineer @ NYU Robomaster", 
-    "Graduate Research Assistant @ NYU Langone", 
-    "Graduate Research Assistant @ NYU Ignite Lab"
-  ],
-  interests: ["Autonomous Systems", "Robot Perception", "Sensor Fusion", "Deep Learning", "Computer Vision"],
-  currentFocus: "Pioneering intelligent systems at the intersection of Artificial Intelligence and Robotics, focusing on visual perception, autonomous navigation, and intelligent control architectures."
-};
-```
+## About Me
 
-## 🎓 Education
+- 🎓 M.S. candidate in Mechatronics and Robotics at New York University.
+- 🔬 Graduate Research Assistant at NYU Langone Health's Lin Lab.
+- 🤖 Graduate Research Assistant at NYU's Center for Robotics and Embodied Intelligence, Prema Lab.
+- 📍 Based in New York, NY.
+- 🧭 Interested in physical AI, autonomous navigation, robot perception, sensor fusion, embedded systems, and multi-agent robotics.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/NYU-5B2C6F?style=for-the-badge" alt="NYU"></td>
-      <td><b>Master of Science, Mechatronics and Robotics</b><br>New York University, New York, USA<br><i>Recipient of Merit-based Scholarship</i> • Expected: 2027<br><i>Relevant Coursework: Robot Perception, Machine Learning, Computer Vision, Robot Localization & Navigation, Reinforcement Learning & Optimal Control</i></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/AIT-E74C3C?style=for-the-badge" alt="AIT"></td>
-      <td><b>Bachelor of Engineering, Mechatronics Engineering</b><br>Acharya Institute of Technology, Bangalore, India<br><i>Minor: Artificial Intelligence</i> • Jan 2022 - May 2024</td>
-    </tr>
-  </table>
-</div>
+## Current Focus
 
-## 🔄 Current Focus
+- Automating UR5e robot experiments with stereo-camera SLAM, V-JEPA, and low-latency voice control.
+- Developing offline LLM agents for experiment monitoring and retrieval-indexed memory for multi-agent systems.
+- Building wireless photometry firmware and 200 Hz IMU pipelines on Nordic nRF52840 hardware.
+- Training computer-vision models for automated behavioral experiments using YOLO26n and custom CVAT datasets.
 
-I'm currently pushing the boundaries of what's possible in intelligent robotics:
-
-- 🧠 **Computer Vision for Robotics**: Fine-tuning state-of-the-art video foundation models (VideoMAE, DINOv3) for real-time behavior and object tracking.
-- 🤖 **Autonomous Navigation & Sensor Fusion**: Building Kalman-filter pipelines and integrating UWB/IMU/Encoders for sub-centimeter multi-robot localization and SLAM.
-- ⚡ **Deployable AI Infrastructure**: Orchestrating ROS2 pipelines and deploying ML models to edge devices (NVIDIA Jetson) using multi-stage Docker containers.
-- 🌐 **Mechatronic Control Systems**: Bridging deep learning with classical control theory (Inverted Pendulums, PID, dynamic stability) in Mujoco and physical hardware.
-
-## 💼 Work Experience
+## Experience
 
 <details open>
-  <summary><b>Graduate Research Assistant - NYU Langone (Lin Lab)</b> [Feb 2026 - Present]</summary>
+  <summary><b>Graduate Research Assistant — NYU Center for Robotics and Embodied Intelligence, Prema Lab</b> · Sept 2026 – Present</summary>
   <ul>
-    <li>Developed video datasets by fine-tuning VideoMAE/DINOV3/vjepa foundation model backbones with configurable losses.</li>
-    <li>Engineered scalable, frame-level annotation by developing a DMVR-style IterableDataset for raw .mp4 streams.</li>
-    <li>Constructed multi-label behavior annotation datasets and data sampling frameworks to reliably handle class imbalances.</li>
+    <li>Programmed a UR5e industrial robot for automated fin testing by combining stereo-camera SLAM, V-JEPA, and Whisper-based voice control at 50 ms latency.</li>
+    <li>Developed an offline LLM monitoring agent that identifies failed or invalid trials with 94% accuracy across 100 runs.</li>
+    <li>Prototyping retrieval-indexed shared memory that reduces multi-agent token usage by 40% per query.</li>
   </ul>
 </details>
 
 <details open>
-  <summary><b>Computer Vision Research Engineer - Robomaster Ultraviolet (NYU)</b> [Apr 2025 - Present]</summary>
+  <summary><b>Graduate Research Assistant — NYU Langone Health, Lin Lab</b> · Feb 2026 – Present</summary>
   <ul>
-    <li>Developed a Linear Kalman Filter-based prediction model for real-time target tracking and sensor fusion within a ROS2 pipeline.</li>
-    <li>Consolidated complex ROS2 node configurations into a single parameterized launch file, reducing developer onboarding time by 50%.</li>
-    <li>Improved edge-deployment by composing a multi-stage Docker container for NVIDIA Jetson and a custom CLI.</li>
-    <li>Optimized dataset processing techniques using TensorFlow, increasing throughput while lowering compute costs.</li>
+    <li>Developed firmware for a wireless photometry device that streams synchronized IMU and optical sensor data over Bluetooth to a live dashboard.</li>
+    <li>Programmed an nRF52840 MCU to sample a BMI270 6-DOF IMU at 200 Hz, restored independent control of 16 DAC channels, and implemented a 96-bit SPI driver.</li>
+    <li>Building a computer-vision pipeline for automated experiments with YOLO26n after evaluating VideoMAE, DINOv3, and V-JEPA.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>Graduate Research Assistant - NYU Ignite Lab</b> [Sept 2025 - Dec 2025]</summary>
+  <summary><b>Physical AI Data and RL Intern — Telemety AI</b> · Jun 2026 – Aug 2026</summary>
   <ul>
-    <li>Developed a Python-based wildfire risk visualization tool analyzing 3.8 million spatio-temporal weather records.</li>
-    <li>Implemented spatial smoothing with B-spline and Gaussian kernel interpolation to refine fire boundary contours.</li>
+    <li>Built a real-time visual-inertial SLAM system on an NVIDIA Jetson AGX Orin using dual stereo cameras and cuVSLAM.</li>
+    <li>Designed a localization architecture combining visual-inertial odometry, LiDAR-inertial odometry, and GNSS-RTK for drift-free indoor/outdoor transitions.</li>
+    <li>Developed a monocular traversability-estimation pipeline using action-camera IMU metadata and ORB-SLAM3.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>Operations Manager - Eventsliner</b> [Jun 2024 - Dec 2024]</summary>
+  <summary><b>Computer Vision Research Engineer — NYU Robomaster Ultraviolet</b> · Apr 2025 – Aug 2026</summary>
   <ul>
-    <li>Led the deployment of a Machine-Learning based content-recommendation algorithm.</li>
-    <li>Implemented automated onboarding and workflows using n8n and Zapier, building structured user data catalogs.</li>
+    <li>Consolidated two ROS2 launch configurations into one parameterized launch file, reducing developer onboarding time by 50%.</li>
+    <li>Developed a Linear Kalman Filter prediction model for real-time target tracking and sensor fusion.</li>
   </ul>
 </details>
 
-## 🛠️ Skills & Competencies
-
-<div align="center">
-  <h3>Programming & Hardware Integration</h3>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  
-  <h3>AI, Machine Learning & Computer Vision</h3>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  <h3>Robotics, Simulation & DevOps</h3>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/Mujoco-000000?style=for-the-badge&logo=robomaker&logoColor=white">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/SolidWorks-E32224?style=for-the-badge&logo=solidworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
-
-## 🚀 Featured Projects
+## Featured Project
 
 ### Autonomous Robot Navigation and Localization
-An advanced distributed multi-robot control system solving real-time offline robot localization. 
-- **Tech Highlights:** Sensor fusion pipeline with Kalman-filter-based state estimation integrating UWB, IMU, and Encoders. 
-- **Impact:** Achieved 5 cm positioning precision, improved pose estimation accuracy by 40%, and enabled inter-robot communication achieving 25% faster convergence in cooperative motion tasks.
 
-### Self-Balancing Robot (Inverted Pendulum)
-Engineered an autonomous self-balancing robot utilizing the inverted pendulum principle, replacing conventional PID with a custom control algorithm designed from scratch.
-- **Tech Highlights:** Mechatronics system modeling, 3D CAD structuring (SolidWorks/Inventor), and C++ hardware-software integration for dynamic stability.
+Designed a distributed multi-robot localization and formation-control system:
 
-### AI Wildfire Risk Visualization Tool
-A comprehensive spatial analysis tool predicting potential fire spread zones using large-scale datasets.
-- **Tech Highlights:** Python, OpenCV, B-spline and Gaussian kernel interpolation.
-- **Impact:** Analyzed over 300 building data points and 3.8M weather records, using spatial smoothing to reduce visual noise by 35% and mapping areas into distinct heat intensity/risk categories.
+- Fused UWB, IMU, and wheel odometry with an Extended Kalman Filter.
+- Achieved 5 cm positioning and loop-closure precision while improving pose-estimation accuracy by 40%.
+- Shared synchronized position, velocity, and heading through ESP32 controllers, enabling 25% faster formation convergence.
 
-### Weather Monitoring System (ML)
-Machine learning framework designed to forecast weather conditions and predict natural calamity susceptibility using Google Maps API data.
-- **Tech Highlights:** TensorFlow optimization, OpenCV image processing.
-- **Impact:** Developed an assessment model with an 87.9% prediction confidence for high-risk natural calamity areas.
+## Education
 
-## 🏆 Publications & Achievements
+- **New York University** — M.S. in Mechatronics and Robotics, Sept 2025 – Present  
+  Merit-based scholarship recipient. Coursework includes Robot Perception, Advanced Mechatronics, Robot Gait and Manipulation, Robot Localization and Navigation, Mathematics for Robotics, and Reinforcement Learning and Optimal Control.
+- **Acharya Institute of Technology** — B.E. in Mechatronics Engineering, Minor in Artificial Intelligence, Jan 2022 – May 2024
 
-- **Publication:** *Design and Development of Sign-Language Glove a prototype of an AI integrated Sign-Language Glove* - IEEE International Conference on Advanced Intelligent Mechatronics (2023)
-- **Award:** Recipient of the Merit-based Scholarship at New York University.
+## Technical Skills
 
-## 🤝 Let's Connect
+- **Languages:** C/C++, Python, C#, HTML, Bash, CUDA
+- **AI & Computer Vision:** PyTorch, TensorFlow, Keras, OpenCV, YOLO, V-JEPA, DINOv3, VideoMAE
+- **Robotics & Autonomy:** ROS2, SLAM, sensor fusion, localization, path planning, LiDAR processing, UR5e
+- **Embedded Systems:** nRF52840, ESP32, Raspberry Pi, Arduino, IMUs, SPI, I²C, Bluetooth
+- **Tools & Simulation:** Docker, NVIDIA Jetson, Isaac Lab, MuJoCo, MATLAB/Simulink, SolidWorks, ANSYS, Git
+- **Agentic AI:** OpenClaw, LangChain, Ollama, Whisper, retrieval-indexed memory
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/riteshdoijode">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:riteshdoijode@nyu.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://github.com/riteshdoijode">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</div>
+## Publication & Recognition
 
-<div align="center">
-  <p>I'm always eager to collaborate on robotics, computer vision, and autonomous systems projects. Feel free to reach out!</p>
-</div>
+- **IEEE AIM 2023:** [Design and Development of Sign-Language Glove](https://drive.google.com/file/d/16Bfoa6cpV9FWMf4V2fjE3EGkHYfQtn-E/view?usp=drive_link)
+- **New York University:** Merit-based scholarship recipient
+
+## Let's Connect
+
+I'm open to collaborating on robotics, physical AI, computer vision, autonomous systems, and embedded-intelligence projects.
